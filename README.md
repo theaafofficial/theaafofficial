@@ -7,7 +7,7 @@ I'm Ahmad! Python developer by day, Full Stack developer by night. When I'm not 
 :rocket: Technologies & Skills
 -----------------
 - MERN Stack (MongoDB, Express, React, Node.js)
-- T3 Stack (Typescript, NextJS, tRPC, AuthJS, Prisma)
+- T3 Stack (Typescript, NextJS, Tailwind, tRPC, NextAuth, Prisma)
 - Mobile Development (React Native, Firebase, Expo)
 - Python Backend (Flask, Django REST Framework, Fast API)
 - Web Scraping (Scrapy, Selenium, Crawlee, Playwright)
