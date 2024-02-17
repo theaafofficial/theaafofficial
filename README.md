@@ -2,9 +2,9 @@
 
 :man_technologist: About Myself
 -----------------
-I'm Ahmad! Python developer by day, Full Stack developer by night. When I'm not coding, you can find me binging the latest movies and shows. Always hungry to learn more.
+I'm Ahmad! Python developer by day, Full Stack developer by night. When I'm not coding, you can find me binging the latest movies and shows. Always hungry to learn more & eager to solve problems.
 
-:rocket: Technologies & Skills
+:rocket: My Skills Arsenal
 -----------------
 - MERN Stack (MongoDB, Express, React, Node.js)
 - T3 Stack (Typescript, NextJS, Tailwind, tRPC, NextAuth, Prisma)
@@ -13,6 +13,8 @@ I'm Ahmad! Python developer by day, Full Stack developer by night. When I'm not 
 - Web Scraping (Scrapy, Selenium, Crawlee, Playwright)
 - Automation
 
+:bug: My Contribution @[Dataprism](https://www.dataprism.me)
+![2023-Contributions-Dataprism](https://github.com/theaafofficial/theaafofficial/blob/main/image.png)
 
 :handshake: Connect with me
 -----------------
