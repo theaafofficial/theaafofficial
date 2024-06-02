@@ -13,8 +13,6 @@ I'm Ahmad! Python developer by day, Full Stack developer by night. When I'm not 
 - Web Scraping (Scrapy, Selenium, Crawlee, Playwright)
 - Automation
 
-:bug: My Contribution @[Dataprism](https://www.dataprism.me)
-![2023-Contributions-Dataprism](https://github.com/theaafofficial/theaafofficial/blob/main/image.png)
 
 :handshake: Connect with me
 -----------------
