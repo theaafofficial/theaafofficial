@@ -1,24 +1,40 @@
-# Hey there :wave:
+# 👋 Hey there, I'm Ahmad
 
-:man_technologist: About Myself
------------------
-I'm Ahmad! Python developer by day, Full Stack developer by night. When I'm not coding, you can find me binging the latest movies and shows. Always hungry to learn more & eager to solve problems.
+Full-time Python developer & part-time full-stack tinkerer. When I'm not coding, you can find me binging the latest movies and shows. Always hungry to learn more & eager to solve problems.
 
-:rocket: My Skills Arsenal
------------------
-- MERN Stack (MongoDB, Express, React, Node.js)
-- T3 Stack (Typescript, NextJS, Tailwind, tRPC, NextAuth, Prisma)
-- Mobile Development (React Native, Firebase, Expo)
-- Python Backend (Flask, Django REST Framework, Fast API)
-- Web Scraping (Scrapy, Selenium, Crawlee, Playwright)
-- Automation
+---
 
+### 💼 What I Work With
 
-:handshake: Connect with me
------------------
-Feel free to connect with me on:
+- **Languages & Scripting**: Python, JavaScript, Shell  
+- **Backend**: FastAPI, Django REST, Flask  
+- **Frontend**: React, Next.js (T3 Stack), Tailwind  
+- **Mobile**: React Native, Expo, Firebase  
+- **Automation & Scraping**: Playwright, Crawlee, Selenium, Scrapy  
+- **Browser Tools**: Chrome Extensions, Tampermonkey  
+- **DevOps & Cloud**: GitHub Actions, GCP, BigQuery, AWS, Azure
 
-- :briefcase: [LinkedIn](https://www.linkedin.com/in/ahmadamin-farooq/)
-- :octocat:  [GitHub](https://github.com/theaafofficial/)
+---
 
-Looking forward to collaborating and learning from the developer community! :smiley:
+### 🚀 Projects I Enjoy
+- Full-stack web & mobile applications  
+- SaaS tools with automated workflows  
+- Browser automation & extension scripting  
+- Web scraping & data pipelines  
+- API-first backends & internal dashboards  
+
+---
+
+### 🤝 Connect With Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ahmadamin-farooq/)  
+- 💻 [GitHub](https://github.com/theaafofficial/)  
+- 🧑‍💼 [Upwork](https://www.upwork.com/freelancers/~019da71a6e960aab0b)
+
+> Let's build, automate, and ship something cool together.
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,bash,fastapi,django,flask,react,nextjs,tailwind,firebase,selenium,gcp,aws,azure,docker,git" />
+  </a>
+</p>
