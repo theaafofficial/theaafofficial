@@ -28,8 +28,6 @@ Full-time Python developer & part-time full-stack tinkerer. When I'm not coding,
 ### 🤝 Connect With Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ahmadamin-farooq/)  
-- 💻 [GitHub](https://github.com/theaafofficial/)  
-- 🧑‍💼 [Upwork](https://www.upwork.com/freelancers/~019da71a6e960aab0b)
 
 > Let's build, automate, and ship something cool together.
 
